@@ -24,13 +24,12 @@ Using the following APIs:
 - [Jetpack Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) - Navigation library
 - [SafeArgs](https://developer.android.com/guide/navigation/navigation-getting-started#ensure_type-safety_by_using_safe_args) - Type safe navigation
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library
-- 
+
 ### Networking
 - [Retrofit](https://square.github.io/retrofit/) - Rest Client
 - [OkHttp](https://square.github.io/okhttp/) - Http Client
 
 ## Screens
-
 Home Page             |  Saved Page |  Details Page
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/busrakizilaslan/Countries/blob/master/screenshots/home.png)|![](https://github.com/busrakizilaslan/Countries/blob/master/screenshots/saved.png)|![](https://github.com/busrakizilaslan/Countries/blob/master/screenshots/details.png)
