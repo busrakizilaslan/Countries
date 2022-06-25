@@ -16,6 +16,7 @@ Using the following APIs:
 - [RapidAPI GeoDB Cities](https://rapidapi.com/wirefreethought/api/geodb-cities)
 
 
+
 ## Technology
 ### Presentation
 - [View Binding](https://developer.android.com/topic/libraries/view-binding) - generates binding classes which hold reference to XML id'd elements
@@ -28,6 +29,8 @@ Using the following APIs:
 ### Networking
 - [Retrofit](https://square.github.io/retrofit/) - Rest Client
 - [OkHttp](https://square.github.io/okhttp/) - Http Client
+
+
 
 ## Screens
 Home Page             |  Saved Page |  Details Page
