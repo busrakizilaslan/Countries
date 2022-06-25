@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/row_border"
+    android:layout_gravity="center_horizontal"
+    android:padding="10dp"
+    android:layout_margin="5dp"
+    >
+
+    <TextView
+        android:id="@+id/countryNameTextView"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Türkiye"
+        android:textSize="24sp"
+        android:layout_weight="1"
+        />
+
+    <ImageView
+        android:id="@+id/savedImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_save"
+        android:layout_gravity="center_vertical"/>
+
+</LinearLayout>
