@@ -4,4 +4,7 @@ class qwe {
     fun qwe() {
         println("qwe")
     }
+    fun rty() {
+        println("qwe")
+    }
 }
