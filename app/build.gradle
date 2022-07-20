@@ -75,5 +75,7 @@ dependencies {
     annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.0"
 
+    //
+
 }
 
